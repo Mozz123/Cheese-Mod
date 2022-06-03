@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cheesemod:block/pot_block"
+    }
+  }
+}
